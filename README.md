@@ -1,18 +1,13 @@
-**ENPM665 Cloud Security**
 
-**Final Project**
-
-**REPORT**
 
 **COBRA KAI WEBSITE MIGRATION TO CLOUD**
 
-![Logo Description automatically generated](media/6746d10859250455d67cf2a730b460ed.jpeg)
 
-Reviewed and submitted by
+
 
 **Abhijeet Marikal**
 
-**Uid: 118551678**
+
 
 **Contents**
 
